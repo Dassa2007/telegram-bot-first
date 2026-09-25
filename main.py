@@ -8,7 +8,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # BotFatherගෙන් ගත් Token එක මෙතැනට දාන්න
-    TOKEN = "8650700541:AAGZX9o1XVg8libgKEinJvGoRz3qEitdH5Y"
+    TOKEN = "8842158355:AAH5VEr1Pgic2Z2yIXq27CRePUEOTRViAJ4"
     
     # Render එක දෙන Port එක ලබා ගැනීම (Web Service එකක් ලෙස ක්‍රියාත්මක වීමට)
     PORT = int(os.environ.get("PORT", "8443"))
